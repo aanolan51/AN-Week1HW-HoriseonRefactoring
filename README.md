@@ -9,6 +9,7 @@ The <img> tags have had additional features added. A title attribute and an alt 
 
 https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_1.png
 https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_2.png
+https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_3.png
 
 
 
