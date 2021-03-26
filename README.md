@@ -7,9 +7,9 @@ A website needed some additional work completed. This project scope involved cle
 # Usage
 The <img> tags have had additional features added. A title attribute and an alt attribute were added for accessbility. The title provides text when hovering over the image and the alt attribute provides a description of the picture if it doesn't load properly on the web page. These can be updated as needed to provide the appropriate descriptions.
 
-https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_1.png
-https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_2.png
-https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_3.png
+![Website screenshot - top](https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_1.png)
+![Website screenshot - middle](https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_2.png)
+![Website screenshot- bottom](https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/images/Website_3.png)
 
 
 
@@ -17,6 +17,8 @@ https://github.com/aanolan51/AN-Week1HW-HoriseonRefactoring/blob/main/assets/ima
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 http://www.webpagemistakes.ca/title-attribute/
+
+https://reactgo.com/github-add-images-readme/
 
 
 
